@@ -38,5 +38,5 @@ Book by Christos Papadimitriou, Sanjoy Dasgupta, and Umesh Vazirani
 
 The problems are in Persian but my answers are in English.
 
-[Theoritical Homeworks]('./TheorticalHomeworks')
+[Theoritical Homeworks](./TheorticalHomeworks)
 
