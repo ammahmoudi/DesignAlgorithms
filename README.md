@@ -12,6 +12,7 @@ This repostiry includes my homeworks and projects around Algorithms and Data str
 ## Table of Coding Problems
 Each problem has a pdf file describing the problem in persian in format of an story.
 Algorithms are supposed to be fast and efficient to accept the original problem restrcitions.
+
 | Problem | Description |
 | --- | --- |
 | [BalancedParanthesisMinimumSwapsCounter](./BalancedParanthesisMinimumSwapsCounter) | Finding minimum swaps needed to balance an input string of parentheses |
@@ -25,6 +26,7 @@ Algorithms are supposed to be fast and efficient to accept the original problem 
 | [SafePathFinder](./SafePathFinder) | indicate that there is a safe path between start and end point in a graph which has some unsafe edges |
 | [ShortestPathesToGraphBuilder](./ShortestPathesToGraphBuilder) | given a list of shortest path lengths between vertices and trying to make the smallest graph with this properties  |
 | [TreeSplittingCounter](./TreeSplittingCounter) | given a tree, trying to count all combination of splitting this tree with some restrictions  |
+
 ## Theoritical Problems
 There are some theoritical homeworks along with my solutions around the algorithm topics.(my answers may be incorrect!)
 source book of the course:
